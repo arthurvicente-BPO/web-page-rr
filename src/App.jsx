@@ -8,7 +8,7 @@ function App() {
     <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'sans-serif' }}>
       <h1>🚀 RR Contabilidade Pro - Teste de Deploy</h1>
       <p>Se você está vendo isso, o projeto em React + Vite foi criado com sucesso!</p>
-      <p style={{ color: 'green', fontWeight: 'bold' }}>✅ O UPDATE AUTOMÁTICO FUNCIONOU PERFEITAMENTE!</p>
+      <p style={{ color: 'green', fontWeight: 'bold' }}>✅ O UPDATE AUTOMÁTICO FUNCIONOU PERFEITAMENTE! NOME DO DOMÍNIO ATUALIZADO</p>
     </div>
   )
 }
