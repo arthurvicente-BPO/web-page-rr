@@ -21,7 +21,7 @@ function App() {
       <div className="top-bar">
         <div className="top-bar-container">
           <div className="contact-info">
-            <span>📞 +55 (47) 3084-5500</span>
+            <span>📞 +55 (84) 99185-4294</span>
             <span>✉️ contato@rrcontabilidade.com.br</span>
           </div>
           <div className="social-links">
@@ -39,7 +39,7 @@ function App() {
             {/* O texto substitui temporariamente a imagem enquanto adiciona o arquivo */}
             <div className="logo-placeholder">
               <span className="logo-r">R</span>
-              <span className="logo-wings">⚜️</span>
+              <span className="logo-wings">&</span>
               <span className="logo-r">R</span>
               <p className="logo-sub">CONTABILIDADE</p>
             </div>
