@@ -160,10 +160,10 @@ function App() {
             <h2>Agende uma Consultoria Gratuita</h2>
             <p>Fale diretamente com um especialista e descubra onde a sua empresa está a perder dinheiro.</p>
             <div className="info-item">
-              <strong>Telefone:</strong> (47) 3084-5500
+              <strong>Telefone:</strong> (84) 99185-4294
             </div>
             <div className="info-item">
-              <strong>Endereço:</strong> Av. Central Corporativa, 1200 - Centro
+              <strong>Endereço:</strong> Rua Jó Ferreira, Nº 39, Centro - João Câmara, RN
             </div>
             <div className="info-item">
               <strong>Atendimento:</strong> Seg a Sex, das 08h às 18h
