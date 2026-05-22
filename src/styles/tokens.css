@@ -1,0 +1,29 @@
+/* ── TOKENS GLOBAIS R&R CONTABILIDADE ── */
+
+:root {
+  /* Cores */
+  --gold:        #C9A84C;
+  --gold-light:  #F0C84A;
+  --gold-glow:   rgba(240, 200, 74, 0.7);
+  --dark:        #111010;
+  --surface:     rgba(26, 25, 24, 0.65);
+  --off-white:   #F0EDE8;
+  --muted:       rgba(240, 237, 232, 0.8);
+
+  /* Tipografia */
+  --font-primary: 'Montserrat', sans-serif;
+
+  /* Layout */
+  --nav-h: 80px;
+  --max-w: 1440px;
+  --px:    40px;
+
+  /* Transições */
+  --ease-out: cubic-bezier(.25, .8, .25, 1);
+}
+
+@media (max-width: 768px) {
+  :root {
+    --px: 24px;
+  }
+}
