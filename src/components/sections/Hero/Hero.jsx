@@ -14,8 +14,8 @@ function Hero() {
             <span className={styles.subtitle}>A R&R É REFERÊNCIA NO MERCADO</span>
             <h1 className={styles.title}>
               Consultoria Financeira <br />
-              e Contábil para o{' '}
-              <span className={styles.glowText}>Seu Negócio</span>
+              e Contábil para a{' '}
+              <span className={styles.glowText}>Sua Barbearia</span>
             </h1>
             <p className={styles.description}>
               Cuidamos de toda a burocracia fiscal, trabalhista e corporativa da sua empresa
